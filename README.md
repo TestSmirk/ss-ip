@@ -1,14 +1,16 @@
 # ss-ip
 分享几个ss的ip节点.  
-##### shadowsock  
+### shadowsock  
 
 ip | port  | pwd | m|
 ---- | --- | --- | --- |
 153.125.237.142 | 31029 | testsmirk.com | aes-256-cfb
+153.125.238.173 | 31997 | testsmirk.com | aes-256-cfb
+### pac 
 
-##### pac 
+http://pac.ddcc.me/1.pac  
 
-http://pac.ddcc.me/1.pac
+此pac文件为[squid](https://github.com/rptec/squid-PAC)低端口转发.
 
 会不定期维护.  
 
@@ -16,7 +18,7 @@ shadowsock站点:  
 [ddcc.me](http://ddcc.me)  
 需要注册注册提issue即可获取邀请码.  
 
-== 个人创建.资源有限,请大家珍惜流量 ==.
+==个人创建.资源有限,请大家珍惜流量==
 
 
 The MIT License (MIT)
