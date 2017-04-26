@@ -12,10 +12,16 @@ http://pac.ddcc.me/1.pac
 
 会不定期维护.  
 
+shadowsock站点:  
+[ddcc.me](http://ddcc.me)  
+需要注册注册提issue即可获取邀请码.  
+
+== 个人创建.资源有限,请大家珍惜流量 ==.
+
 
 The MIT License (MIT)
 
-Copyright (c) 2015 TestSmirk
+Copyright (c) 2017 TestSmirk
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
