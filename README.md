@@ -7,7 +7,7 @@ ip | port  | pwd | m|
 153.125.237.142 | 31029 | testsmirk.com | aes-256-cfb
 153.125.238.173 | 31997 | testsmirk.com | aes-256-cfb
 64.137.189.226 | 6666| testsmirk.com | aes-256-cfb
-5.62.225.199 | 6666 | testsmirk.com | aes-256-cfb
+45.62.225.199 | 6666 | testsmirk.com | aes-256-cfb
 ### pac 
 
 http://pac.ddcc.me/1.pac  
