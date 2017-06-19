@@ -1,5 +1,6 @@
 # ss-ip
-分享几个ss的ip节点.  
+分享几个ss的ip节点. 
+share some shadowsocks node
 ### shadowsock  
 
 ip | port  | pwd | m|
@@ -18,9 +19,10 @@ ip | port  | pwd | m|
 http://pac.ddcc.me/1.pac  
 
 此pac文件为[squid](https://github.com/rptec/squid-PAC)低端口转发.
+this pac is forward low port [squid](https://github.com/rptec/squid-PAC)
+会不定期维护.  maintance randon date
 
-会不定期维护.  
-
+my web site below
 ~shadowsock站点:~  
 ~[ddcc.me](http://ddcc.me)` 
 #### 图床 :  
