@@ -5,28 +5,24 @@ share some shadowsocks node
 
 ip | port  | pwd | m|
 ---- | --- | --- | --- |
-153.125.238.173(jp) | 31997 | testsmirk.com | aes-256-cfb
-45.62.225.199(ca) | 6666 | testsmirk.com | aes-256-cfb
-107.172.100.153(us) | 12345 | testsmirk.com | aes-256-cfb
-178.62.233.56(nl) | 12345 | testsmirk.com | aes-256-cfb
-63.223.91.47(us) | 12345| testsmirk.com | aes-256-cfb
-107.174.204.185(us) | 12345 | testsmirk.com | aes-256-cfb  
+{
+    "server": "13.229.90.158",
+    "local_address": "127.0.0.1",
+    "local_port": 1080,
+    "timeout": 300,
+    "workers": 1,
+    "server_port": 64049,
+    "password": "g7fcBU",
+    "method": "rc4-md5",
+    "obfs": "plain",
+    "obfs_param": "",
+    "protocol": "origin",
+    "protocol_param": ""
+}
+                  ssr://MTguMTgyLjY2LjEzNzo2NDA0OTpvcmlnaW46cmM0LW1kNTpwbGFpbjpaemRtWTBKVi8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPVctYVhwZWFjckVGZDU3MlI1cGlUNUxxUkwwNWxkR1pzYVhndlNFSlBMMGgxYkhVJmdyb3VwPVZ1bUZzUQ
+ssr://MTMuMjI5Ljk1LjIzMTo2NDA0OTpvcmlnaW46cmM0LW1kNTpwbGFpbjpaemRtWTBKVi8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPVctYVdzT1dLb09XZG9VUmQ1NzJSNXBpVDVMcVJMMDVsZEdac2FYZ3ZTRUpQTDBoMWJIVSZncm91cD1WdW1Gc1E         
+                           
 ### pac 
-
-http://pac.ddcc.me/1.pac  
-
-此pac文件为[squid](https://github.com/rptec/squid-PAC)低端口转发.
-this pac is forward low port [squid](https://github.com/rptec/squid-PAC)
-会不定期维护.  maintance randon date
-
-my web site below
-~shadowsock站点:~  
-~[ddcc.me](http://ddcc.me)` 
-#### 图床 :  
-[ddcc.me](http://ddcc.me)  
-
-==个人创建.资源有限,请大家珍惜流量==
-
 
 
 The MIT License (MIT)
